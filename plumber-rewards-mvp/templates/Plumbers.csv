@@ -1,0 +1,3 @@
+PlumberID,Name,Phone,PasswordHashOrOTPRef,RegistrationDate,Status,Role,Region,TotalPoints,LastActiveDate,CreatedAt,UpdatedAt
+PLB-0001,Sample Plumber,+201000000001,,2026-10-01,Active,Plumber,Cairo,0,2026-10-01,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z
+ADM-0001,Program Admin,+201000000999,,2026-10-01,Active,Admin,HQ,0,2026-10-01,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z

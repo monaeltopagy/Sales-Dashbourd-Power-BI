@@ -1,0 +1,5 @@
+RewardID,RewardName,Description,RequiredPoints,Stock,Status,StartDate,EndDate,CreatedAt,UpdatedAt
+RWD-0500,Reward 1,Basic reward,500,100,Active,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z
+RWD-1000,Reward 2,Mid reward,1000,75,Active,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z
+RWD-2500,Reward 3,Advanced reward,2500,50,Active,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z
+RWD-5000,Reward 4,Premium reward,5000,25,Active,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z

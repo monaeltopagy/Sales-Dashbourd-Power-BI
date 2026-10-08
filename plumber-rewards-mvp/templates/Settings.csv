@@ -1,0 +1,5 @@
+SettingType,ActivityType,Points,Active,RequireUniqueCode,ApprovalRequired,EffectiveFrom,EffectiveTo,CreatedAt,UpdatedAt
+ActivityRule,Inspection,10,TRUE,TRUE,TRUE,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z
+ActivityRule,Installation,20,TRUE,TRUE,TRUE,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z
+ActivityRule,Eligible Purchase,30,TRUE,TRUE,TRUE,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z
+ActivityRule,Special Campaign,50,TRUE,FALSE,TRUE,2026-10-01,,2026-10-01T09:00:00Z,2026-10-01T09:00:00Z

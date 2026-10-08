@@ -1,0 +1,2 @@
+RedemptionID,PlumberID,RewardID,RequestDate,PointsUsed,Status,AdminNotes,ReviewedBy,ReviewedAt,FulfilledAt,CreatedAt,UpdatedAt
+RED-0001,PLB-0001,RWD-0500,2026-10-05,500,Requested,,,,,2026-10-05T10:00:00Z,2026-10-05T10:00:00Z

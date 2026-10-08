@@ -1,0 +1,2 @@
+TransactionID,PlumberID,ActivityType,ActivityCode,ActivityDate,PointsAwarded,Status,ProofImage,Notes,AdminNotes,DuplicateFlag,ReviewedBy,ReviewedAt,CreatedAt,UpdatedAt
+TRX-0001,PLB-0001,Inspection,INSP-10001,2026-10-03,0,Pending,,,,FALSE,,,2026-10-03T08:30:00Z,2026-10-03T08:30:00Z
